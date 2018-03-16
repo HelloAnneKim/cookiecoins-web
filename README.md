@@ -1,0 +1,2 @@
+# cookiecoins-web
+CookieCoins Website
