@@ -1,23 +1,36 @@
 {
-  "name": "cookiecoin",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "start": "node ./bin/www",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.4",
-    "ethereumjs-util": "^5.1.5",
-    "ethjs-contract": "^0.1.9",
-    "ethjs-query": "^0.3.3",
-    "express": "^4.16.3",
-    "json": "^9.0.6",
-    "path": "^0.12.7",
-    "webpack": "^4.1.1"
-  }
+    "title": "Shop Homepage",
+    "name": "startbootstrap-shop-homepage",
+    "version": "4.0.0",
+    "description": "A shop homepage HTML template built with Bootstrap",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://startbootstrap.com/template-overviews/shop-homepage",
+    "bugs": {
+        "url": "https://github.com/BlackrockDigital/startbootstrap-shop-homepage/issues",
+        "email": "feedback@startbootstrap.com"
+    },
+    "license": "MIT",
+    "author": "Start Bootstrap",
+    "contributors": [
+        "David Miller (http://davidmiller.io/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-shop-homepage.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.0.0",
+        "jquery": "3.3.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.23.6",
+        "gulp": "^3.9.1"
+    }
 }
